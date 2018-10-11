@@ -15,6 +15,7 @@ public class PlanningSummary {
 	@Id
 	private String id;
 	private String numberOfShipments;
+	private int numberOfCalls;
 
 	public PlanningSummary() {
 	}
